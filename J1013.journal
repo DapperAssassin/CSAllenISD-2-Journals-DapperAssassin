@@ -1,0 +1,24 @@
+ Timothy Syfert
+ Journal for W1013
+ 29-Sep-2020
+
+
+I received assistance from: No One
+I assisted: No one
+
+1.1
+Why is one of the symbols used for exclusive disjunction?
+Because sometimes one or the other is true but not both.
+
+2.1
+Why is the formula for determining the number of rows in a truth table related only to the number of inputs, and why is the formula ...?
+It is 2 ^n because the input and output create an output tuple (2) and the n represents the number of inputs or rows. 
+
+What did I learn? What is the "big idea"?
+The big idea is how to read Boolean algebra, logic tables, and truth tables. 
+What challenges did I encounter?
+It's really hard to keep all the different symbols straight.  It was really hard to learn this on our own, but made more sense after it was taught in class. 
+How could this experience be improved?
+Again, some extra examples in the merlin page would be nice to see how things work.  
+Free Reflection: How has what I've learned impacted my thinking?
+Some of these things are a little weird, but the truth tables were interesting and helped with problem solving. 

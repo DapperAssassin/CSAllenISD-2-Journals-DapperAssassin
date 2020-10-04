@@ -1,0 +1,71 @@
+Tim Syfert
+Journal for W1006
+20-Sep-2020
+
+
+I recieved assistance from: noone
+I assisted: nooone
+
+1.1
+What is git communicating to you?
+At first it is communicating untracked files in red.
+1.2
+What do you see that is common between this git log command and the previous git commit?
+They are similar, but have different displays and wording.  It still showed we had one new file.
+1.3
+Why do you think this is?
+I think it is because the log shows what we have completed and the commit is what is availble to be put in github.
+2.1
+What do you notice about file1.txt and file2.txt? How are they displayed in git status?
+They are both listed as unfiled
+2.2
+Are they both displayed in the same section?  If not, why not?
+No, one was edited and one was new.
+3.1
+What do you notice about file1.txt and file2.txt? How are they displayed in git status?
+They are displayed in green with different references. 
+3.2
+Compare and contrast the manner in which the two files are displayed.
+File 1 is listed as modified, while file 2 is listed as new.
+4.1
+How many files are listed as having been changed?
+diff --git a/file1.txt b/file1.txt
+index 6b9c267..a437ba8 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+ This file isn't empty.
+ +This is a new line
+ diff --git a/file2.txt b/file2.txt
+ new file mode 100644
+ index 0000000..b44c9be
+ --- /dev/null
+ +++ b/file2.txt
+ @@ -0,0 +1 @@
+ +This is a new line in a new file
+ Two files have been changed.
+What are the specific differences listed for each file? In what color is the difference displayed?
+File 1 recieved a new line, and file 2 recieved a new line in a new file.
+5.1
+What does git tell you has changed? Why?
+
+   2 | # Please enter the commit message for your changes. Lines starting
+      3 | # with '#' will be ignored, and an empty message aborts the commit\
+             .
+	        4 | #
+		   5 | # On branch master
+		      6 | # Your branch is up to date with 'origin/master'.
+		         7 | #
+			    8 | # Changes to be committed:
+			       9 | #       modified:   file1.txt
+			         10 | #       new file:   file2.txt
+
+It shows that file 1 was changed and that file two is new.
+What did I learn? What is the "big idea"?
+The big idea was understanding how changes are logged and connecting it to github.
+What challenges did I encounter?
+I had trouble with the repository, but then when I did the process again it seemed to work better.
+How could this experience be improved?
+The lesson was too fast and I fell behind so I was completely lost during the lesson, and it's really hard to do this from the notes on the website.
+Free Reflection: How has what I've learned impacted my thinking?
+It was interesting to see how the items relate in the different commands. 
