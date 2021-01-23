@@ -1,0 +1,144 @@
+<mxfile host="app.diagrams.net" modified="2021-01-23T20:59:38.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RlLVHYejg87CSvHgzQBL" version="13.11.0" type="github" pages="3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="368" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-1" value="What is the greatest number from the variables a, b, and c?" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7M7XMibbR4kWcr5FymbQ-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="sourcePoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7M7XMibbR4kWcr5FymbQ-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7M7XMibbR4kWcr5FymbQ-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-5" value="Is a greater than b?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-11" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-12" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7M7XMibbR4kWcr5FymbQ-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-13" value="Is a greater than c?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-19" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="620" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-20" value="A is greatest!" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="670" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7M7XMibbR4kWcr5FymbQ-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7M7XMibbR4kWcr5FymbQ-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-21" value="Is b greater than c?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-22" value="B is greatest!" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7M7XMibbR4kWcr5FymbQ-21" target="7M7XMibbR4kWcr5FymbQ-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-26" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-29" value="C is greatest!" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M7XMibbR4kWcr5FymbQ-30" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tYi7gA8zTDHlFiLbSyL_" name="Page-2">
+    <mxGraphModel dx="1022" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-0" />
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-1" parent="6nCBMEhajT-Xm09JqnRl-0" />
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="6nCBMEhajT-Xm09JqnRl-1" source="6nCBMEhajT-Xm09JqnRl-2" target="6nCBMEhajT-Xm09JqnRl-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-2" value="How to Find the GCF Using Euclid&#39;s Algorithm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nCBMEhajT-Xm09JqnRl-1">
+          <mxGeometry x="240" y="40" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="6nCBMEhajT-Xm09JqnRl-1" source="6nCBMEhajT-Xm09JqnRl-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="6nCBMEhajT-Xm09JqnRl-1" source="6nCBMEhajT-Xm09JqnRl-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-4" value="Divide a and b and record the remainder." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6nCBMEhajT-Xm09JqnRl-1">
+          <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-6" value="B is the GCF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6nCBMEhajT-Xm09JqnRl-1">
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-7" value="No remainder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6nCBMEhajT-Xm09JqnRl-1">
+          <mxGeometry x="480" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-9" value="Remainder greater &lt;br&gt;than zero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6nCBMEhajT-Xm09JqnRl-1">
+          <mxGeometry x="40" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="6nCBMEhajT-Xm09JqnRl-1" source="6nCBMEhajT-Xm09JqnRl-10" target="6nCBMEhajT-Xm09JqnRl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-10" value="Divide b by the remainder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6nCBMEhajT-Xm09JqnRl-1">
+          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-11" value="The GCF is R" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6nCBMEhajT-Xm09JqnRl-1">
+          <mxGeometry x="100" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-13" value="Remainder greater &lt;br&gt;than zero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6nCBMEhajT-Xm09JqnRl-1">
+          <mxGeometry x="220" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="6nCBMEhajT-Xm09JqnRl-1" source="6nCBMEhajT-Xm09JqnRl-10" target="6nCBMEhajT-Xm09JqnRl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6nCBMEhajT-Xm09JqnRl-16" value="No remainder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6nCBMEhajT-Xm09JqnRl-1">
+          <mxGeometry x="100" y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QirO7XFgZoG8r561SONR" name="Page-3">
+    <mxGraphModel dx="1022" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="7giKniYD1ekRf3qfpknt-0" />
+        <mxCell id="7giKniYD1ekRf3qfpknt-1" parent="7giKniYD1ekRf3qfpknt-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
